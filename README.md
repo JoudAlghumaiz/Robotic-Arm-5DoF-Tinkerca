@@ -1,7 +1,7 @@
 # 5 DoF Robotic Arm - TinkerCAD Design
 
-![Tinkercad Robotic Arm Design](<img width="1806" height="1263" alt="Screenshot 2025-07-27 212536" src="https://github.com/user-attachments/assets/92b96b6c-c6b7-4acd-98b9-223d928b4341" />
-)
+![Tinkercad Robotic Arm Design](<img width="1806" height="1263" alt="Screenshot 2025-07-27 212536" src="https://github.com/user-attachments/assets/46abdfb7-1cac-4261-ba69-6446b511d6c0" />
+
 
 ## Project Overview
 
